@@ -10,17 +10,17 @@ Per fornire la posizione e' sufficiente cliccare sulla graffetta che compare nel
 
 Per indicare il Comune di interesse e' sufficiente scriverne il nome.
 
-Verra' interrogata una copia del DataBase OpenData del Ministero dello Sviluppo Economico (rif. http://www.sviluppoeconomico.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti),utilizzabile con licenza iodl2.0 (rif. http://www.dati.gov.it/iodl/2.0/).
+Verra' interrogata una copia del DataBase OpenData del Ministero dello Sviluppo Economico (rif. [http://www.sviluppoeconomico.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti](http://www.sviluppoeconomico.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti)),utilizzabile con licenza iodl2.0 (rif. http://www.dati.gov.it/iodl/2.0/).
 
 I dati sono aggiornati giornalmente dalle ore 9.00.
 
-Per maggiori dettagli http://cesaregerbino.wordpress.com/yyyyyyyyyy
+Per maggiori dettagli http://cesaregerbino.wordpress.com/
 
 
 
 ## Dati e servizi utilizzati
 
-I dati dei distributori sono forniti dal DataBase OpenData del Ministero dello Sviluppo Economico (rif. http://www.sviluppoeconomico.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti),utilizzabile con licenza iodl2.0 (rif. http://www.dati.gov.it/iodl/2.0/).
+I dati dei distributori sono forniti dal DataBase OpenData del Ministero dello Sviluppo Economico (rif. [http://www.sviluppoeconomico.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti](http://www.sviluppoeconomico.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti)),utilizzabile con licenza iodl2.0 (rif. http://www.dati.gov.it/iodl/2.0/).
 
 I dati sono ospitati su un database open source SQLITE3 (rif. https://www.sqlite.org/ ) + SpatiaLite (rif. http://www.gaia-gis.it/gaia-sins/).
 
